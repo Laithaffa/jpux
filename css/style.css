@@ -1,0 +1,25 @@
+.one,.tow,.three{
+    width: 200px;
+    height: 200px;
+}
+.one{
+
+    background-color: black;
+    color: red;
+    transition: 1.55s;
+}
+.tow{
+
+    background-color: blue;
+   border-radius: 40PX;
+}
+.three{
+
+    background-color: brown;
+}
+.one:hover{
+    background-color: brown;
+    border-radius: 50%;
+    border: 15px solid black;
+
+}
